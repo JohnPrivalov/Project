@@ -1,0 +1,10 @@
+.dada {
+    display: block;
+    width: 200px;
+    height: 200px;
+    color: darkgreen;
+    background-color: darkblue;
+    border: 10px solid darkcyan;
+    border-style: dashed;
+    
+}
